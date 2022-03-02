@@ -1,0 +1,2 @@
+model_checkpoint_path: "jigs.pd"
+all_model_checkpoint_paths: "jigs.pd"
